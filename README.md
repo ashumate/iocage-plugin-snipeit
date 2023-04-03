@@ -1,2 +1,2 @@
 # iocage-plugin-snipeit
-Articatf files for Snipe-It 
+Artifact files for Snipe-It 
